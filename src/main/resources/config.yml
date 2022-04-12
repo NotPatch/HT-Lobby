@@ -1,0 +1,10 @@
+permission: ht.admin
+
+settings:
+  cancel-drop: true
+  cancel-pickup: true
+  cancel-weather: true
+  cancel-day: true
+  cancel-chat: false
+
+detector:

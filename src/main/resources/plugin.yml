@@ -1,0 +1,4 @@
+name: HT-Lobby
+version: ${project.version}
+main: pw.hysteria.lobby.htlobby.HTLobby
+api-version: 1.18
